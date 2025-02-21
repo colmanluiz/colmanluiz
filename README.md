@@ -18,11 +18,6 @@
 
 ---
 
-### 📊 GitHub Stats  
-[![GitHub Streak](https://streak-stats.demolab.com?user=[YOUR_GITHUB_USERNAME]&theme=dark&hide_border=true)](https://git.io/streak-stats)  
-
----
-
 ### 📫 Let’s Connect!  
 🔗 [LinkedIn](https://www.linkedin.com/in/luiz-henrique-colman-6a04bb257/)  
 📧 [Email](mailto:colmanluizz@gmail.com)  
