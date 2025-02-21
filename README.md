@@ -2,7 +2,7 @@
 **Junior Fullstack Developer
 
 🚀 Passionate about crafting scalable web applications that solve real-world problems.  
-💻 Currently working at [Alfacon](https://www.alfaconcursos.com.br/) (Brazil’s leading EdTech platform with 5M+ users).  
+💻 Currently working at Alfacon (Brazil’s leading EdTech platform with 5M+ users).  
 🌱 Learning: Advanced TypeScript patterns, distributed systems, and LLM integrations.  
 
 ---
@@ -26,4 +26,3 @@
 ### 📫 Let’s Connect!  
 🔗 [LinkedIn](https://www.linkedin.com/in/luiz-henrique-colman-6a04bb257/)  
 📧 [Email](mailto:colmanluizz@gmail.com)  
-🌐 **Open to remote opportunities** in Brazil or North America.  
