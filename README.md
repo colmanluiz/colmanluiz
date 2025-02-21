@@ -18,31 +18,8 @@
 
 ---
 
-### 🎯 Featured Projects  
-
-#### **AlfaQuiz** | EdTech AI Platform  
-[![Ruby on Rails](https://img.shields.io/badge/-Ruby_on_Rails-CC0000)] 
-[![React](https://img.shields.io/badge/-React-61DAFB)]  
-- Built AI-powered quizzes for personalized study reinforcement.  
-- **Result**: 60% increase in user adoption of AI features.  
-
-#### **Virtual Learning Environment (VLE)**  
-[![Next.js](https://img.shields.io/badge/-Next.js-000000)]
-[![Node.js](https://img.shields.io/badge/-Node.js-339933)]  
-- Integrated LLM tools (transcriptions, mind maps) for adaptive learning.  
-- **Result**: 90% reduction in navigation-related complaints.  
-
-#### **Helpdesk Central**  
-[![Next.js](https://img.shields.io/badge/-Next.js-000000)]
-[![PrismaORM](https://img.shields.io/badge/-Prisma-2D3748)]  
-- Developed a support ticket system with automated prioritization.  
-- **Result**: 50% faster ticket resolution time.  
-
----
-
 ### 📊 GitHub Stats  
 [![GitHub Streak](https://streak-stats.demolab.com?user=[YOUR_GITHUB_USERNAME]&theme=dark&hide_border=true)](https://git.io/streak-stats)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=[YOUR_GITHUB_USERNAME]&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
