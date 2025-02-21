@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Luiz
 **Junior Fullstack Developer | Building Tools for Education & Impact**  
 
 🚀 Passionate about crafting scalable web applications that solve real-world problems.  
