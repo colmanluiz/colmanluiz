@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Luiz
-**Junior Fullstack Developer
+Junior Fullstack Developer
 
 🚀 Passionate about crafting scalable web applications that solve real-world problems.  
 💻 Currently working at Alfacon (Brazil’s leading EdTech platform with 5M+ users).  
-🌱 Learning: Advanced TypeScript patterns, distributed systems, and LLM integrations.  
+🌱 Learning: NestJS, distributed systems, and LLM integrations.  
 
 ---
 
