@@ -2,16 +2,12 @@
 
 I'm a **Software Developer** passionate about building smart, scalable, and modern web applications. My main focus is on combining **LLMs** and **AI tools** with robust **backend architecture**, and clean **frontend interfaces** when needed. I enjoy turning technical challenges into polished, reliable solutions.
 
-## 🛠️ Tech Stack
+Over the past few years, I’ve worked with:
 
-**Languages & Frameworks**  
-`TypeScript` `JavaScript` `Node.js` `React` `Next.js` `NestJS` `Ruby on Rails`
-
-**AI & Vector Search**  
-`OpenAI API` `LangChain` `Langfuse` `Pinecone` `MongoDB Atlas Vector Search` `pgvector`
-
-**Infra & Tools**  
-`Docker` `Kafka` `Redis` `PostgreSQL` `MongoDB` `PrismaORM` `AWS (EC2/S3)` `GitHub Actions`
+- **Languages & Frameworks:** TypeScript, JavaScript, Node.js, NestJS, React, Next.js, Ruby on Rails  
+- **AI & LLM Stack:** OpenAI API, LangChain, Whisper, Langfuse, Pinecone, MongoDB Atlas Vector Search, pgvector  
+- **Data & Infra:** PostgreSQL, MongoDB, Redis, Docker, Kafka, PrismaORM, AWS (S3/EC2)  
+- **Workflow:** GitHub Actions, Scrum, Kanban, CI/CD, Testing Libraries (Jest, Testing Library)
 
 ---
 
