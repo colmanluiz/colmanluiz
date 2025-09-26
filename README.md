@@ -24,12 +24,6 @@ Currently, I’m focusing on:
 
 ## 📌 Featured Projects  
 
-### [📰 News Agent RAG](https://github.com/colmanluiz/news-article-agent)  
-End-to-end RAG system ingesting news links via Kafka, scraping content, cleaning it with LLMs, and storing embeddings in MongoDB Atlas Vector Search. Exposes an `/agent` endpoint that returns contextual answers with source metadata.  
-**Stack:** Node.js, TypeScript, OpenAI API, Kafka, Langfuse, MongoDB Atlas, Docker  
-
----
-
 ### [✅ Task Management](https://github.com/colmanluiz/task-management)  
 A **task management application** built as a fullstack project. Features include task creation, editing, and status tracking, designed with scalability and clean architecture in mind.  
 **Stack:** NestJS, PostgreSQL, Next.js, TypeScript, Docker  
@@ -39,6 +33,12 @@ A **task management application** built as a fullstack project. Features include
 ### [📊 Go Event Counter](https://github.com/colmanluiz/go-event-counter)  
 A **technical assessment project in Go** designed to learn about goroutines, channels, and concurrency. Counts and processes streaming events efficiently using Go’s concurrency primitives.  
 **Stack:** Go  
+
+---
+
+### [📰 News Agent RAG](https://github.com/colmanluiz/news-article-agent)  
+End-to-end RAG system ingesting news links via Kafka, scraping content, cleaning it with LLMs, and storing embeddings in MongoDB Atlas Vector Search. Exposes an `/agent` endpoint that returns contextual answers with source metadata.  
+**Stack:** Node.js, TypeScript, OpenAI API, Kafka, Langfuse, MongoDB Atlas, Docker  
 
 ---
 
