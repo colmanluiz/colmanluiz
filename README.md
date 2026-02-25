@@ -70,7 +70,7 @@ A high-performance concurrent event processing system.
 
 Designed to deepen understanding of Go concurrency and system-level thinking.
 
-👉 Repository: (add link here)
+👉 Repository: https://github.com/colmanluiz/go-event-counter
 
 ---
 
