@@ -1,56 +1,117 @@
-# 👋 Hi, I'm Luiz Henrique Colman  
+# Luiz Henrique Colman
 
-🚀 Fullstack Software Engineer | AI Enthusiast  
+Full-Stack Engineer focused on building scalable backend systems, distributed architectures, and AI-powered applications.
 
-I’m a developer passionate about building scalable systems and integrating **AI into real-world products**.  
-With experience in **Node.js, TypeScript, React, NestJS, and Ruby on Rails**, I’ve worked on platforms with **millions of users** and designed AI-powered solutions like chatbots and Retrieval-Augmented Generation (RAG) systems.  
-
-Currently, I’m focusing on:  
-- **Generative AI & LLM Applications** (RAG pipelines, observability, token optimization)  
-- **Scalable Backend Architectures** (NestJS microservices, Kafka, PostgreSQL)  
-- **Modern Frontend Development** (React, Next.js, shadcn/ui)  
-- **Learning Go** and exploring concurrency, channels, and system design  
+I design and deliver production-ready software, from frontend architecture to microservices and real-time systems.  
+Currently focused on **Node.js ecosystem, distributed systems, Go, and AI integration (LLMs & RAG).**
 
 ---
 
-## 🛠️ Tech Stack  
-- **Languages:** TypeScript, JavaScript, Go, Ruby  
-- **Backend:** Node.js, NestJS, Ruby on Rails, PostgreSQL, MongoDB, Kafka  
-- **Frontend:** React, Next.js, Tailwind, shadcn/ui  
-- **AI Tools:** OpenAI, LangChain, Langfuse, Vector Databases  
-- **Infra & Tools:** Docker, AWS, GitHub Actions, Agile/Scrum  
+## 🧠 What I Work With
+
+- **Backend:** Node.js, NestJS, Express, Fastify, .NET, Go
+- **Frontend:** React, Next.js, TanStack Start, TypeScript
+- **Databases:** PostgreSQL, MongoDB, Redis
+- **Messaging & Real-Time:** RabbitMQ, WebSockets
+- **AI & Data:** LLM Integration, RAG Pipelines, Vector Search, Observability
+- **DevOps:** Docker, Docker Compose, AWS
+- **Architecture:** Microservices, REST APIs, Event-Driven Systems
 
 ---
 
-## 📌 Featured Projects  
+# 🔥 Featured Projects
 
-### [✅ Task Management](https://github.com/colmanluiz/task-management)  
-A **task management application** built as a fullstack project. Features include task creation, editing, and status tracking, designed with scalability and clean architecture in mind.  
-**Stack:** NestJS, PostgreSQL, Next.js, TypeScript, Docker  
+## 1️⃣ Task Management System (Microservices Architecture)
+**Node.js, NestJS, PostgreSQL, RabbitMQ, WebSockets, Docker**
 
----
+A full-stack task management platform built using a microservices architecture.
 
-### [📊 Go Event Counter](https://github.com/colmanluiz/go-event-counter)  
-A **technical assessment project in Go** designed to learn about goroutines, channels, and concurrency. Counts and processes streaming events efficiently using Go’s concurrency primitives.  
-**Stack:** Go  
+- API Gateway + independently deployable services
+- JWT authentication
+- Asynchronous communication with RabbitMQ
+- Real-time updates via WebSockets
+- Dockerized multi-service environment
+- Reduced local setup complexity by ~70%
 
----
+This project demonstrates distributed systems design, service isolation, and scalable backend architecture.
 
-### [📰 News Agent RAG](https://github.com/colmanluiz/news-article-agent)  
-End-to-end RAG system ingesting news links via Kafka, scraping content, cleaning it with LLMs, and storing embeddings in MongoDB Atlas Vector Search. Exposes an `/agent` endpoint that returns contextual answers with source metadata.  
-**Stack:** Node.js, TypeScript, OpenAI API, Kafka, Langfuse, MongoDB Atlas, Docker  
-
----
-
-### 🧠 [TuneSync](https://github.com/colmanluiz/playlist-project) *(WIP)*  
-A smart SaaS that transfers playlists between different music streaming platforms. Includes authentication, syncing logic, and metadata handling.  
-**Stack:** Next.js, TypeScript, Prisma ORM, PostgreSQL, Spotify API  
+👉 Repository: https://github.com/colmanluiz/task-management
 
 ---
 
-## 🌎 Let’s Connect  
-- 💼 [LinkedIn](https://www.linkedin.com/in/luiz-henrique-colman-6a04bb257/)  
-- 🌐 [Portfolio](https://colman.dev.br)  
-- 📧 colmanluizz@gmail.com  
+## 2️⃣ News Agent RAG (AI-Powered Retrieval System)
+**Node.js, TypeScript, OpenAI, Kafka, MongoDB**
+
+An end-to-end Retrieval-Augmented Generation (RAG) pipeline.
+
+- Kafka-based ingestion pipeline
+- LLM-based data cleaning and transformation
+- Vector storage + semantic search
+- Token streaming API
+- Observability with Langfuse
+- Sub-500ms optimized latency
+
+Focus: applied AI engineering, cost optimization, and production-level RAG pipelines.
+
+👉 Repository: https://github.com/colmanluiz/news-article-agent
 
 ---
+
+## 3️⃣ Go Event Counter (Concurrent System)
+**Go, Goroutines, Channels**
+
+A high-performance concurrent event processing system.
+
+- Parallel execution with goroutines
+- Channel-based synchronization
+- Thread-safe processing
+- REST exposure layer
+- Focus on concurrency primitives and memory efficiency
+
+Designed to deepen understanding of Go concurrency and system-level thinking.
+
+👉 Repository: (add link here)
+
+---
+
+## 4️⃣ TuneSync – Playlist Converter
+**Next.js, Node.js, Spotify API, YouTube API**
+
+A full-stack web application that converts playlists across streaming platforms.
+
+- OAuth authentication
+- External API integrations
+- Playlist matching & recreation
+- Clean UX-focused interface
+
+Demonstrates product thinking and API-driven architecture.
+
+👉 Repository: https://github.com/colmanluiz/tunesync
+
+---
+
+# 💼 Professional Experience
+
+I’ve worked on:
+
+- A large-scale education platform built from scratch in 2 months (15,000+ active users)
+- AI-powered lead qualification systems (60% adoption, 70% reduction in manual workload)
+- Learning platforms serving 5M+ users
+
+I care about:
+- Clean architecture
+- Scalable backend systems
+- Measurable business impact
+- Real-world AI integration
+
+---
+
+# 📫 Contact
+
+- LinkedIn: https://linkedin.com/in/luiz-henrique-colman-6a04bb257
+- Portfolio: https://colman.dev.br
+- Email: colmanluizz@gmail.com
+
+---
+
+> Always building. Always optimizing. Always learning.
